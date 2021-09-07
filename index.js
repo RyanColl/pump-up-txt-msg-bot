@@ -15,7 +15,7 @@ setInterval(() => {
             body: `Life is but a dream, and we, we are the makers of that dream! Today and every day we want to wake up with the brightest smile on our face. For every new moment in reality is a moment that we can take a stand and think differently, Do differently, and create differently.`
         })
     }
-    if(str === 'Tue Sep 07 2021 06:30') {
+    if(str === 'Tue Sep 07 2021 07:00') {
         client.messages.create({
             to: '6047618865',
             from: '12672811398',
@@ -32,7 +32,7 @@ setInterval(() => {
             body: `Life is but a dream, and we, we are the makers of that dream! Today and every day we want to wake up with the brightest smile on our face. For every new moment in reality is a moment that we can take a stand and think differently, Do differently, and create differently.`
         })
     }
-    if(str === 'Tue Sep 07 2021 06:45') {
+    if(str === 'Tue Sep 07 2021 07:15') {
         client.messages.create({
             to: '6047618865',
             from: '12672811398',
