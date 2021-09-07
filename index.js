@@ -31,6 +31,11 @@ setInterval(() => {
             from: '12672811398',
             body: `Life is but a dream, and we, we are the makers of that dream! Today and every day we want to wake up with the brightest smile on our face. For every new moment in reality is a moment that we can take a stand and think differently, Do differently, and create differently.`
         })
+        client.messages.create({
+            to: '6044454301',
+            from: '12672811398',
+            body: `Life is but a dream, and we, we are the makers of that dream! Today and every day we want to wake up with the brightest smile on our face. For every new moment in reality is a moment that we can take a stand and think differently, Do differently, and create differently.`
+        })
     }
     if(str === 'Tue Sep 07 2021 07:15') {
         client.messages.create({
@@ -45,6 +50,11 @@ setInterval(() => {
         })
         client.messages.create({
             to: '7786970977',
+            from: '12672811398',
+            body: `Wake UP! And Text in ferda boys! Out here setting up express servers and signing up for twilio at 1 am so I can send sms via js 🤣🥞`
+        })
+        client.messages.create({
+            to: '6044454301',
             from: '12672811398',
             body: `Wake UP! And Text in ferda boys! Out here setting up express servers and signing up for twilio at 1 am so I can send sms via js 🤣🥞`
         })
