@@ -1,0 +1,26 @@
+{
+  "name": "pump-up-txt-msg-bot",
+  "version": "1.0.0",
+  "description": "This app is going to text the boys in the morning at a certain time. I will use an express server, twilio, and pm2 to keep the instance running.",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pm2": "^5.1.1",
+    "twilio": "^3.67.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanColl/pump-up-txt-msg-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanColl/pump-up-txt-msg-bot/issues"
+  },
+  "homepage": "https://github.com/RyanColl/pump-up-txt-msg-bot#readme"
+}
