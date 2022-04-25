@@ -1,0 +1,30 @@
+{
+  "name": "pump-up-txt-msg-bot",
+  "version": "1.0.0",
+  "description": "text the homies in the morn",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pm2": "^5.1.1",
+    "twilio": "^3.67.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanColl/pump-up-txt-msg-bot.git"
+  },
+  "keywords": [
+    "pump",
+    "up"
+  ],
+  "author": "ryan c",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanColl/pump-up-txt-msg-bot/issues"
+  },
+  "homepage": "https://github.com/RyanColl/pump-up-txt-msg-bot#readme"
+}
